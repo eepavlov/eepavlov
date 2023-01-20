@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2887c8a2-0bc4-4472-a764-c0f6607cebef" name="Changes" comment="create branch" />
+    <list default="true" id="2887c8a2-0bc4-4472-a764-c0f6607cebef" name="Changes" comment="create branch">
+      <change beforePath="$PROJECT_DIR$/airflow/First Pipeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/airflow/First Pipeline.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airflow/PythonOperator.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/airflow/PythonOperator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/airflow/RickAndMorty top3 location.py" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/airflow/RickAndMorty top3 location.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dwh/3 normal form.png" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/dwh/3 normal form.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dwh/KC. Павлов ЕЕ. Проект DWH..docx" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/dwh/KC. Павлов ЕЕ. Проект DWH..docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dwh/anchor modelling.png" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/dwh/anchor modelling.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dwh/data vault.png" beforeDir="false" afterPath="$PROJECT_DIR$/learning/Karpov.Coures/dwh/data vault.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,10 +21,13 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dwh_modelling" />
+        <entry key="$PROJECT_DIR$" value="learning" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2Kb57owD0RCgIwnN6QzSVKh6Dv4" />
   <component name="ProjectViewState">
@@ -26,6 +40,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Pelmeshki\PycharmProjects\eepavlov\learning\Karpov.Coures" />
+      <recent name="C:\Users\Pelmeshki\PycharmProjects\eepavlov\dwh" />
+      <recent name="C:\Users\Pelmeshki\PycharmProjects\eepavlov\airflow" />
+      <recent name="C:\Users\Pelmeshki\PycharmProjects\eepavlov\Karpov.Courses" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -63,7 +85,35 @@
       <option name="project" value="LOCAL" />
       <updated>1674230700082</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="create branch">
+      <created>1674230979331</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674230979331</updated>
+    </task>
+    <task id="LOCAL-00006" summary="create branch">
+      <created>1674231010353</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674231010353</updated>
+    </task>
+    <task id="LOCAL-00007" summary="create branch">
+      <created>1674231045536</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674231045536</updated>
+    </task>
+    <task id="LOCAL-00008" summary="create branch">
+      <created>1674231071236</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674231071236</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
